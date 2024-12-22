@@ -1,0 +1,3 @@
+Opening file example.txt
+Reading file example.txt
+Closing file example.txt
